@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Geografia'
+    'Em que continente fica o Egito?'
+    'O Egito fica no continente africano'
+)
+
+criaCartao(
+    'Inglês'
+    'Qual a tradução da palavra TREE?'
+    'A tradução é árvore'
+)
