@@ -1,19 +1,19 @@
 criaCartao(
-    'Biologia',
-    'Qual animal possui 3 corações?,
-    'O polvo'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é Brasília
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual o único músculo do corpo que tem movimento involuntário constante?',
-    'O coração'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
